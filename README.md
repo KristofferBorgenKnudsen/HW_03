@@ -4,7 +4,7 @@
 
 This assignment will explore the dynamics of jumping in place with specific emphasis on exploiting elastic mechanisms to increase jump height. The HW will culminate in a jump competition where each group will demo their jumping ability in class next Monday. __The HW deliverable will be the code used to implement your jump, and a video uploaded to youtube__. 
 
-![](jump.gif)
+![](Jump.gif)
 
 ## Project constraints
 
@@ -26,4 +26,4 @@ In order to maximize your robot height over successive jumps you will want to be
 2. Detect peak descent and transition to the upwards stance phase.
 3. Detect liftoff. 
 
- 
+
